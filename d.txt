@@ -1,1 +1,3 @@
 created a new branch called feature2 for creating a new branch called feature2.
+adding something on master branch
+adding something on feature2.
