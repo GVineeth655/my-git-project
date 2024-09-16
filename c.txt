@@ -1,7 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 gesrgsgwrgsrg
 =======
 Created a new branch named feature1.dhbdxfnbdfhb
 >>>>>>> feature1
 ==== cleared merge conflict.
-ADDING NEW LINE IN MSASTER BRANCH
