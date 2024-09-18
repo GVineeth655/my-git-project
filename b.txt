@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 My second file on git after first file i.e., a.txt
-
+lnfwlgnwljnwl
 addded new line in b.txt
+=======
+new line on f4 branch.
+My second file on git after first file i.e., a.txt
+>>>>>>> f4
