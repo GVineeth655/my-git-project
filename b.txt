@@ -1,1 +1,3 @@
 My second file on git after first file i.e., a.txt
+
+addded new line in b.txt
